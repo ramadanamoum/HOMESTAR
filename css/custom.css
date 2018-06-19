@@ -1,0 +1,131 @@
+/*//////////// Contact Us page content/////////*/
+.cont1{
+    padding: 6vw 0 6vw;
+}
+.form-group .lblm{
+    display: inline-block;
+    margin-bottom: .5rem;
+    color: #98ba4e;
+}
+.form-group input,textarea{
+    border: none;
+    border-radius: 0px;
+}
+.content-form{
+    width: 55%;
+    margin: 0 auto;
+}
+.contact h2{
+    text-align: center;
+
+}.contact p{
+    text-align: center;
+    width: 90%;
+    margin: auto
+}
+.btncontact{
+    background: #98ba4e;
+    margin: 10px 0px;
+    line-height: 1.7;
+    box-shadow: 4px 4px 21px 2px #98ba4e;
+    width: 40%;
+    border: none;
+}
+.btncontact:hover{
+    box-shadow: 1px 1px 12px 3px #f0f0f0;
+    border: none;
+}
+
+/*/////// news page styles////*/
+.contpad{
+    padding-bottom: 20px;
+}
+.contpad a{
+    color: #98ba4e;
+}
+.ahnew{
+    font-size: 35px;
+    padding: 17px 30px;
+    margin-bottom: 20px;
+}
+.pdnew{
+    text-align: center;
+    width: 90%;
+    margin: auto;
+}
+.imgnews{
+    width: 100%;
+    height: auto;
+}
+.title-news {
+    font-size: 30px;
+    text-align: center;
+}
+.imgall:after{
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.6);
+    transition: all 0.5s ease 0s;
+    transform: scaleX(0);
+}
+.imgall:hover:after{
+    transform: scaleX(1);
+    padding: 0 5px;
+}
+.imgall a{
+    width: 100%;
+    display: block;
+    height: 405px;
+}
+.imgall a:hover{
+    width: 100%;
+    display: block;
+    height: 405px;
+}
+.imghi{
+    height: auto;
+}
+.page{
+    width: 40%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+.page li{
+    padding: 10px 27px;
+    border: 1px solid #98ba4e;
+}
+.active{
+    background: #98ba4e;
+}
+.page a{
+    color: #000;
+}
+.btnread{
+    background: #98ba4e;
+    border: none;
+    line-height: 1.8;
+    border-radius: 0;
+    width: 30%;
+    color: #fff !important;
+    box-shadow: 4px 4px 21px 2px #98ba4e;
+}
+.btnread:hover{
+box-shadow: none;
+border: none;
+}
+/*////// News Details img/////*/
+.imgdetailimg{
+    height: 440px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.title-detail{
+    padding: 20px 30px;
+}
