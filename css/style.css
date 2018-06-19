@@ -324,10 +324,12 @@ a:hover {
 }
 
 .header-key {
-    height: 90vh;
+    height: 50vh;
     overflow: hidden;
-    transition: all 0.2s
+    transition: all 0.2s;
+    
 }
+
 header{
     transition: all 0.2s;
 }
@@ -721,7 +723,7 @@ header {
 
 .content {
     background: #f0f0f0;
-    padding: 6vw 0 0vw;
+    padding: 0 0 0vw;
     position: relative;
 }
 

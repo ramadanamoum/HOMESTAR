@@ -30,51 +30,8 @@
 <?php
 include('header.php');
 ?>
-<header id="header-key" class="header-key">
-    <div class="layer" style="z-index: 0 !important; height: 80vh !important; width: 100%" data-depth="1">
-        <div class="layout2 " style="width: 105% ">
-        </div>
-    </div>
-
-    <div class="layer" style="height: 80vh;z-index: 1; width: 100% " data-depth="2">
-        <div class="layout " style="width: 60% !important;"></div>
-    </div>
-
-    <img src="img/twoheader.png" style="" alt="" class="img-two-header layer " data-depth="0.5">
-
-
+<header id="header-key head" class="header-key" style="height: 30vh; background-color: #b0b0b0; background-image: url('https://transparenttextures.com/patterns/batthern.png');">
     <div class="container contetn-center ">
-
-        <div class="row content-header-top-z ">
-            <div class="col-md-6 right-header-content text-uppercase">
-                <h1>HOMESTAR.COM</h1>
-                <h3>Lorem ipsum dolor </h3>
-                <h2>Lorem ipsum dolor</h2>
-            </div>
-            <div class="col-md-6 padding-50px-x">
-                <div class="row">
-                    <div class="col-md-6 box-header-left">
-
-                        <h1 class="title-head">
-                            WE JUST UPDATE
-                            SORRY FOR ANY INCONVINIENCE!
-                        </h1>
-
-                    </div>
-                    <div class="col-md-6"></div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6 padding-0px"></div>
-                    <div class="col-md-6 box-header-left box-header-right">
-                        <a href="#about">
-                        <h1 class="title-head">
-                            Who we Are?
-                        </h1>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
 
 </header>
@@ -84,7 +41,10 @@ include('header.php');
         <h2 class="top-title-big title-news  sum-dit wow fadeInLeft" data-wow-duration="0.3s" data-wow-delay="0.5s"
                             data-295=" " data-350="">news 1 about it lorem ipsum</h2>
             <div class="imgdetail row">
-                <img src="img/img2.jpg" class="imgdetailimg col-sm-12" alt="" data-200="" data-500="">
+                <div class="imgall col-sm-12">
+                     <img src="img/img2.jpg" class="imgdetailimg " alt="" data-200="" data-500="">
+                </div>
+               
             </div>
             <div class="description-all row">
                 <p class="col-sm-12 sum-dit title-detail  wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.7s"

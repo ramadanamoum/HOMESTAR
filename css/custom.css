@@ -1,6 +1,11 @@
+.head{
+    height: 50vh;
+    background-color: #98ba4e;
+    background-image: url("https://transparenttextures.com/patterns/batthern.png");
+}
 /*//////////// Contact Us page content/////////*/
 .cont1{
-    padding: 6vw 0 6vw;
+    padding: 0 0 6vw;
 }
 .form-group .lblm{
     display: inline-block;
