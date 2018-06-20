@@ -134,3 +134,38 @@ border: none;
 .title-detail{
     padding: 20px 30px;
 }
+/*///////////////Types of gambling //////////*/
+.contanet{
+    padding-top: 50px;
+}
+.sum2{
+    font-size: 15px;
+    line-height: 1.5;
+    padding-bottom: 15px;
+}
+.bookmark .ptit{
+    text-decoration: underline;
+    margin: 14px 0px;
+}
+.bbtit{
+    font-weight: 700;
+}
+.bookmark li{
+    list-style-type: none;
+    text-indent: 10px;
+}
+.bookmark li:hover{
+    text-indent: 15px;
+    transition: 0.8s;
+  
+
+}
+.bookmark i{
+    color: #98ba4e;
+    font-size: 20px;
+    padding: 5px 10px;
+}
+.title-gamble{
+    font-size: 30px;
+    margin-bottom: 8px;
+}

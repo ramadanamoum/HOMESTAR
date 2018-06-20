@@ -38,7 +38,7 @@ include('header.php');
 <!-- contet -->
     <div class="content ">
         <div class="container">
-        <h2 class="sum-dit   wow fadeInLeft animated" data-wow-duration="0.8s" data-wow-delay="0.8s" data-780=" " data-830="" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.8s; animation-name: fadeInLeft; font-size:30px; text-align:center;">News</h2> <span class="glyphicon glyphicon-envelope"></span>
+            <h2 class="sum-dit   wow fadeInLeft animated" data-wow-duration="0.8s" data-wow-delay="0.8s" data-780=" " data-830="" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.8s; animation-name: fadeInLeft; font-size:30px; text-align:center;">News</h2> <span class="glyphicon glyphicon-envelope"></span>
             <p class="sum-dit pdnew  wow fadeInRight animated" data-wow-duration="0.8s" data-wow-delay="0.8s" data-780=" " data-830="" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.8s; animation-name: fadeInRight;">
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci amet asperiores, aspernatur
                                 consectetur cum, ea inventore itaque laboriosam molestiae natus, nisi obcaecati sapiente

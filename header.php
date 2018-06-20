@@ -6,9 +6,9 @@
             <div class="menu-contant">
                 <ul>
                     <li><a data-scroll href="index.php">Home</a></li>
-                    <li><a data-scroll href="#">Types f Bets</a></li>
-                    <li><a data-scroll href="#">Types of Gambling Sites</a></li>
-                    <li><a data-scroll href="#">casino games explained</a></li>
+                    <li><a data-scroll href="Types_Bets.php">Types f Bets</a></li>
+                    <li><a data-scroll href="TypesGambling.php">Types of Gambling Sites</a></li>
+                    <li><a data-scroll href="Casino_Games_explained.php">casino games explained</a></li>
                     <li><a data-scroll href="News.php">daily free tips</a></li>
                     <li><a data-scroll href="Contactus.php">Contact</a></li>
                 </ul>
