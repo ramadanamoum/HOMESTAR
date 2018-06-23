@@ -87,10 +87,12 @@
     display: block;
     height: 405px;
 }
+
 .imgall a:hover{
     width: 100%;
     display: block;
     height: 405px;
+    
 }
 .imghi{
     height: auto;

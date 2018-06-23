@@ -21,12 +21,11 @@
 
         </div>
         <div class="row">
-            <div class="col-md-12">
-                <span style="background: #fff; color: #000; padding: 10px; line-height: 1.4; margin-top: 15px; display: inline-block; border-radius: 10px;">
-                    <span style="font-weight:1000;">Be</span>Gamble<span style="font-weight:1000;">Aware</span>
-                    
-                </span>
-                <span style="display: inline-block; background: #fff; color: #000; width: 45px; height: 45px; padding: 10px 5px; border-radius: 50%; border: 4px solid #f72020;">18+</span>
+            <div class="col-md-12" style="margin-top:15px;">
+                <img src="img/logogamble.png" alt="Be Gamble" style="width: 220px; background: #fff; padding: 10px; border-radius: 10px;">
+                <div style="display:inline-block">
+                <span style="display: inline-block; background: #fff; color: #000; width: 45px; height: 45px; padding: 10px 5px; border-radius: 50%; border: 4px solid #f72020; position: relative; top: -15px; left: 14px;">18+</span>
+                </div>
             </div>
         </div>
     </div>

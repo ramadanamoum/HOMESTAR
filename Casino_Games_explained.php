@@ -70,7 +70,7 @@ include('header.php');
     
             <div class="row contpad">
                 <div class="col-lg-6">
-                    <div class="img-parlex-left img-responsove-center" style="background-image: url('img/img2.jpg')"
+                    <div class="img-parlex-left img-responsove-center" style="background-image: url('img/pics/casino games explained/roulette.jpg')"
                         data-780="" data-830=""></div>
                 </div>
                 <div class="col-lg-6">
@@ -97,7 +97,7 @@ include('header.php');
                 <div class="row contpad">
                     <div class="col-lg-6">
                         <div class="img-parlex-right" style="">
-                            <img src="img/img1.jpg" class="img-responsove-center" alt=""
+                            <img src="img/pics/casino games explained/roulette-table.jpg" class="img-responsove-center" alt=""
                                 data-200="" data-500="">
                         </div>
                     </div>
@@ -187,7 +187,7 @@ include('header.php');
                 <div class="row contpad">
                     <div class="col-lg-6">
                         <div class="img-parlex-right" style="">
-                            <img src="img/img1.jpg" class="img-responsove-center" alt=""
+                            <img src="img/pics/casino games explained/poker.jpg" class="img-responsove-center" alt=""
                                 data-200="" data-500="">
                         </div>
                     </div>
@@ -214,7 +214,7 @@ include('header.php');
                 </div>
                 <div class="row contpad">
                     <div class="col-lg-6">
-                        <div class="img-parlex-left img-responsove-center" style="background-image: url('img/img2.jpg')"
+                        <div class="img-parlex-left img-responsove-center" style="background-image: url('img/pics/casino games explained/poker hands.png')"
                             data-780="" data-830=""></div>
                     </div>
                     <div class="col-lg-6">
@@ -270,7 +270,7 @@ include('header.php');
                 <div class="row contpad">
                     <div class="col-lg-6">
                         <div class="img-parlex-right" style="">
-                            <img src="img/img1.jpg" class="img-responsove-center" alt=""
+                            <img src="img/pics/casino games explained/poker hands.png" class="img-responsove-center" alt=""
                                 data-200="" data-500="">
                         </div>
                     </div>

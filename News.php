@@ -65,7 +65,7 @@ include('header.php');
                 <div class="col-md-6 col-sm-12 imgall">
                         <a href="NewDetail.php" class"linkimg">
                         <div class="img-parlex-right imghi" style="">
-                            <img src="img/img1.jpg" class="img-responsove-center" alt=""
+                            <img src="img/pics/free bets/lucky.png" class="img-responsove-center" alt=""
                             data-200="" data-500="">
                         </div>
                         </a>
@@ -75,7 +75,7 @@ include('header.php');
             <div class="row contpad">
                 <div class="col-md-6 col-sm-12 imgall">
                         <a href="NewDetail.php" class"linkimg">
-                            <div class="img-parlex-left img-responsove-center" style="background-image: url('img/img2.jpg')"
+                            <div class="img-parlex-left img-responsove-center" style="background-image: url('img/pics/free bets/pic2.jpg')"
                             data-780="" data-830=""></div>
                         </a>
                 </div>
@@ -117,7 +117,7 @@ include('header.php');
                 <div class="col-md-6 col-sm-12 imgall">
                         <a href="NewDetail.php" class"linkimg">
                         <div class="img-parlex-right imghi" style="">
-                            <img src="img/img1.jpg" class="img-responsove-center" alt=""
+                            <img src="img/pics/free bets/pic3.jpg" class="img-responsove-center" alt=""
                             data-200="" data-500="">
                         </div>
                         </a>

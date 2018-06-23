@@ -418,7 +418,7 @@ header span{
     z-index: 999;
 }
 .topheader img {
-    height: 82px;
+    height: 90px;
 }
 .two-top {
     position: fixed;
@@ -601,7 +601,7 @@ header {
 .right-header-content h1 {
     font-size: 35px;
     letter-spacing: 7px;
-    margin-right: -9px;
+    margin-right: -33px;
 }
 
 .right-header-content h3 {
@@ -1459,6 +1459,9 @@ footer {
     }
     .img-responsove-center{
         height: 422px;
+    }
+    img.img-responsove-center:hover {
+        transform: scale(0.8,0.8);
     }
     .img-parlex-left,
     .img-parlex-right{
